@@ -1,4 +1,5 @@
 # apnacollege-demo
 my first git repository
 <br>
-Author-Bhanu Jangid
+first author - anand sharma
+second Author-Bhanu Jangid
